@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "cardType": "pendingTransaction",
+      "title": "Pending Transactions",
+      "iconUrl": "",
+      "cards": []
+    },
+    {
+      "cardType": "recentTransaction",
+      "title": "Recent Transactions",
+      "cards": []
+    },
+    {
+      "cardType": "sendMoney",
+      "title": "Send Money",
+      "iconUrl": "",
+      "cards": [
+        {
+          "title": "To Vpa",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "To Self",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "To Contact",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "Scan & Pay",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        }
+      ]
+    },
+    {
+      "cardType": "quickAction",
+      "title": "",
+      "iconUrl": "",
+      "cards": [
+        {
+          "title": "ToPay Bill",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "Recharge",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "Gift Card",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },
+        {
+          "title": "Scan & Pay",
+          "iuri":"myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        },{
+          "title": "DTH",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://webview/?icid=andappbuy_dth",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        }
+      ]
+    },
+    {
+      "cardType": "banners",
+      "title": "Offers For You",
+      "iconUrl": "",
+      "cards": [
+        {
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        },
+        {
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        },
+        {
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        }
+      ]
+    },
+    {
+      "cardType": "quickLinks",
+      "title": "",
+      "iconUrl": "",
+      "cards": [
+        {
+          "title": "View All transactions",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        },
+        {
+          "title": "Check Balance",
+          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        }
+      ]
+    },
+    {
+      "cardType": "rewards",
+      "title": "Refer & Earn",
+      "subTitle": "You will earn Rs 50 cashback when they make their first payment",
+      "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+      "cards": [
+        {
+          "title": "Share Link",
+          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "uri": "myairtel://bank_offers"
+        }
+      ]
+    }
+    ],
+  "meta":{
+    "stauts":"0",
+    "code":"00"
+  }
+}
+
+
