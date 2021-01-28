@@ -92,7 +92,7 @@
           "iuri": "myairtel://webview/?icid=iosappbuy_dth",
           "uri": "myairtel://webview/?icid=andappbuy_dth",
           "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
-        }
+        },
         {
           "title": "Gift Card",
           "iuri": "myairtel://webview/?icid=iosappbuy_dth",
