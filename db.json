@@ -47,7 +47,7 @@
       "cards": [
         {
           "title": "To Vpa",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
+          "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
           "uri": "myairtel://upi_welcome_screen?p=upi_payment",
           "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
         },
