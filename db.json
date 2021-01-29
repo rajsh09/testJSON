@@ -10,34 +10,14 @@
         "payeeVpa": "rajan@airtel",
         "iuri": "myairtel://webview/?icid=iosappbuy_dth",
         "uri": "myairtel://webview/?icid=andappbuy_dth",
-        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        "iconUrl": ""
       }, {
         "title": "Deepak",
         "subTitle": "UPI Id:",
         "payeeVpa": "rajan@airtel",
         "iuri": "myairtel://webview/?icid=iosappbuy_dth",
         "uri": "myairtel://webview/?icid=andappbuy_dth",
-        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
-      }]
-    },
-    {
-      "cardType": "recentTransaction",
-      "title": "Recent Transactions",
-      "cards": [{
-        "title": "Rajan",
-        "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-        "uri": "myairtel://webview/?icid=andappbuy_dth",
-        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
-      },{
-        "title": "Arpit",
-        "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-        "uri": "myairtel://webview/?icid=andappbuy_dth",
-        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
-      },{
-        "title": "Deepak",
-        "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-        "uri": "myairtel://webview/?icid=andappbuy_dth",
-        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+        "iconUrl": ""
       }]
     },
     {
@@ -46,28 +26,28 @@
       "iconUrl": "",
       "cards": [
         {
-          "title": "To Vpa",
+          "title": "To Contacts",
           "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
           "uri": "myairtel://upi_welcome_screen?p=upi_payment",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iconUrl": "https://www.airtel.in/bank/appaws/f38a4d12-e313-4d4d-85a5-c0a9f53d7f48_Add+Money.png"
         },
         {
           "title": "To Self",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
+          "uri": "myairtel://upi_welcome_screen?p=upi_payment",
+          "iconUrl": "http://s3-ap-southeast-1.amazonaws.com/myairtelapp/images/xxhdpi/Recharge_260419.png"
         },
         {
-          "title": "To Contact",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "title": "To Bank Account",
+          "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
+          "uri": "myairtel://upi_welcome_screen?p=upi_payment",
+          "iconUrl": "https://www.airtel.in/bank/bankoffers/bank-icons/netbanking.png"
         },
         {
-          "title": "Scan & Pay",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "title": "Scan QR",
+          "iuri": "myairtel://scan_pay_payment",
+          "uri": "myairtel://scan_pay_payment",
+          "iconUrl": "https://www.airtel.in/bank/appaws/31a7fba0-76db-4d8f-a408-0a165deea959_Scan+%26+Pay.png"
         }
       ]
     },
@@ -78,37 +58,37 @@
       "cards": [
         {
           "title": "Pay Bill",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iuri": "myairtel://swipe_pager?p=utilities&opt=payBill",
+          "uri": "myairtel://pay?p=utilities&opt=payBill",
+          "iconUrl": "http://s3-ap-southeast-1.amazonaws.com/myairtelapp/images/xxhdpi/PayBills_260419.png"
         },
         {
           "title": "Recharge",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
-        },{
-          "title": "Invest",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iuri": "myairtel://swipe_pager?p=recharge&n=6388449471",
+          "uri": "myairtel://pay?p=recharge&n=6388449471",
+          "iconUrl": "http://s3-ap-southeast-1.amazonaws.com/myairtelapp/images/xxhdpi/Digital_Store_2010061.png"
         },
         {
           "title": "Gift Card",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iuri": "myairtel://giftCard",
+          "uri": "myairtel://giftCard",
+          "iconUrl": "https://images.prismic.io/airtelpaymentsbank%2F4acc5867-46cc-457e-a2ec-3607b65f81f3_gift+card.png"
         },
         {
           "title": "DTH",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "iuri": "myairtel://swipe_pager?p=recharge&opt=dth",
+          "uri": "myairtel://pay?p=recharge&opt=dth",
+          "iconUrl": "https://www.airtel.in/bank/appaws/1ae559d8-3600-4209-bb8d-d5ec1b62dc0a_DTH.png"
         },{
-          "title": "Broadband",
-          "iuri":"myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://webview/?icid=andappbuy_dth",
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+          "title": "Pay Utilities",
+          "iuri":"myairtel://swipe_pager?p=utilities&opt=electricity",
+          "uri": "myairtel://pay?p=utilities&opt=electricity",
+          "iconUrl": "https://www.airtel.in/bank/appaws/08162e65-5c56-49a6-a4f3-01ce85a765e2_utility+payment.png"
+        },{
+          "title": "Pension",
+          "iuri":"myairtel://apy",
+          "uri": "myairtel://apy",
+          "iconUrl": "https://www.airtel.in/bank/appaws/3ab0c132-d477-4306-9526-aa6e13006da6_pension+%403x.png"
         }
       ]
     },
@@ -118,7 +98,7 @@
       "iconUrl": "",
       "cards": [
         {
-          "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+          "iconUrl": "https://www.airtel.in/bank/appaws/86c9af8c-3083-43a6-bb9c-3fa4badfb4b9_WrongLinkcreative_OfferCard_1100-x-600-px.jpg?auto=compress,format&rect=0,0,1099,600&w=720&h=393",
           "iuri": "myairtel://webview/?icid=iosappbuy_dth",
           "uri": "myairtel://bank_offers"
         },
@@ -133,6 +113,25 @@
           "uri": "myairtel://bank_offers"
         }
       ]
+    },{
+      "cardType": "recentTransaction",
+      "title": "Recent Transactions",
+      "cards": [{
+        "title": "Rajan",
+        "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "uri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+      },{
+        "title": "Arpit",
+        "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "uri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+      },{
+        "title": "Deepak",
+        "iuri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "uri": "myairtel://upi_welcome_screen?p=upi_payment",
+        "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png"
+      }]
     },
     {
       "cardType": "quickLinks",
@@ -157,12 +156,12 @@
       "cardType": "rewards",
       "title": "Refer & Earn",
       "subTitle": "You will earn Rs 50 cashback when they make their first payment",
-      "iconUrl": "https://assets.airtel.in/static-assets/appCore/a.png",
+      "iconUrl": "https://assets.airtel.in/static-assets/appCore/ott/xxhdpi/mnp_card_coverage.png",
       "cards": [
         {
           "title": "Share Link",
-          "iuri": "myairtel://webview/?icid=iosappbuy_dth",
-          "uri": "myairtel://bank_offers"
+          "iuri": "",
+          "uri": ""
         }
       ]
     }
