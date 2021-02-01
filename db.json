@@ -32,6 +32,12 @@
           "iconUrl": "https://www.airtel.in/bank/appaws/f38a4d12-e313-4d4d-85a5-c0a9f53d7f48_Add+Money.png"
         },
         {
+          "title": "To Self",
+          "iuri": "myairtel://upi_send_money?p=toVpa",
+          "uri": "myairtel://upi_send_money?p=toVpa",
+          "iconUrl": "http://s3-ap-southeast-1.amazonaws.com/myairtelapp/images/xxhdpi/Recharge_260419.png"
+        },
+        {
           "title": "To Bank Account",
           "iuri": "myairtel://upi_send_money?p=toAccount",
           "uri": "myairtel://upi_send_money?p=toAccount",
