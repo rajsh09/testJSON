@@ -30,6 +30,11 @@
           "iuri": "myairtel://upi_send_money?p=toContact",
           "uri": "myairtel://upi_send_money?p=toContact",
           "iconUrl": "https://www.airtel.in/bank/appaws/f38a4d12-e313-4d4d-85a5-c0a9f53d7f48_Add+Money.png"
+        },        {
+          "title": "To Contacts",
+          "iuri": "myairtel://upi_send_money?p=toContact",
+          "uri": "myairtel://upi_send_money?p=toContact",
+          "iconUrl": "https://www.airtel.in/bank/appaws/f38a4d12-e313-4d4d-85a5-c0a9f53d7f48_Add+Money.png"
         },
         {
           "title": "To Self",
